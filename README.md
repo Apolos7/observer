@@ -1,13 +1,14 @@
-## Getting Started
+## Padrão Observer
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O Observer é um padrão de projeto comportamental que permite que você defina um mecanismo de assinatura para notificar múltiplos objetos sobre quaisquer eventos que aconteçam com o objeto que eles estão observando.
 
-## Folder Structure
+## Estrutura do projeto
 
 The workspace contains two folders by default, where:
+A pasta do projeto  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: pasta contendo o código fonte do padrão
+
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
